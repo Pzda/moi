@@ -17,6 +17,7 @@ temporal (threads, async, reactive, generators)
 
 ## the pure
 the V is a pure if it has a unique name, needs an input or a dependencies, and specifies the contents as the output.
+its considered that primitive data types are pure if `needs` conforms the `contents` or vice versa.
 
 V (name, needs, contents)
 ```
