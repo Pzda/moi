@@ -2,7 +2,7 @@
 
 ## the values
 existence adds line to the code, the processing time it was created, and the memory resources in the stack.\
-variables contains unique values from being assigned.\
+variables contains unique [pures](#the-pure) from being assigned.\
 dictionaries has a key symbol to specify the location of the value, and an another value. (`a['0']=a` is recursive)\
 temporal these are value that existed at anytime it depends.
 
