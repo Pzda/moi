@@ -20,9 +20,8 @@ the V is a pure if it has a unique name, needs an input or a dependencies, and s
 
 V (name, needs, contents)
 ```
-name(needs) {
+name(needs):
     contents
-}
 ```
 ```
 name: contents = needs;
