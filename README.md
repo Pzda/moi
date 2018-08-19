@@ -31,4 +31,4 @@ name: contents = needs;
 contents name = needs;
 ``` 
     
-cc by 4.0 share alike | github.com/Pzda & github.com/gocs
+cc by 4.0 share alike | [@Pzda](github.com/Pzda) & [@gocs](github.com/gocs)
