@@ -29,4 +29,4 @@ V (name, needs, contents)
     contents name = needs;
     
     
-    
+cc by 4.0 share alike
