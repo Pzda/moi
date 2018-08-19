@@ -1,5 +1,5 @@
 # moi
-^0          ^1          ^2             ^?\
+    ^0          ^1          ^2           ^?\
 constants < variables < dictionaries < threads
 
 const (values, procedures, symbols)\
