@@ -19,14 +19,16 @@ temporal (threads, async, reactive, generators)
 the V is a pure if it has a unique name, needs an input or a dependencies, and specifies the contents as the output.
 
 V (name, needs, contents)
-
-    name(needs) {
-        contents
-    }
-    
-    name: contents = needs;
-    
-    contents name = needs;
-    
+```
+name(needs) {
+    contents
+}
+```
+```
+name: contents = needs;
+```
+```
+contents name = needs;
+``` 
     
 cc by 4.0 share alike
