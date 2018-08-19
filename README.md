@@ -1,6 +1,6 @@
 # moi
     ^0          ^1          ^2           ^?\
-constants < variables < dictionaries < threads
+constants < variables < dictionaries < temporal
 
 const (values, procedures, symbols)\
 variables (properties, functions)\
