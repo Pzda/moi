@@ -10,7 +10,7 @@ temporal these are value that existed at anytime it depends.
 existence < variables < dictionaries < temporal\
 <sup><sub>these are valid modern js</sub></sup>
 
-const (values, procedures, symbols)\
+existence (values, procedures, symbols)\
 variables (properties, functions)\
 dictionaries (arrays, collections, tuples, enums)\
 temporal (threads, async, reactive, generators)
@@ -27,9 +27,6 @@ name(needs):
 ```
 name: contents = needs;
 ```
-```
-contents name = needs;
-``` 
 
 ## the track
 the track is clasification of the behavior when the value is changed.
