@@ -45,4 +45,4 @@ override
 a + 1
 ```
 
-cc by 4.0 share alike | [@Pzda](https://github.com/Pzda) & [@gocs](https://github.com/gocs)
+cc by 4.0 share alike | [`@Pzda`](https://github.com/Pzda) & [`@gocs`](https://github.com/gocs)
