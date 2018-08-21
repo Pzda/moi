@@ -21,8 +21,9 @@ its considered that primitive data types are pure if `needs` conforms the `conte
 
 V (name, needs, contents)
 ```
-name(needs):
-    contents
+name(needs) {
+    contents;
+}
 ```
 ```
 name: contents = needs;
